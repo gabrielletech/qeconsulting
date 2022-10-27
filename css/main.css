@@ -1601,7 +1601,7 @@ textarea.w-select {
 }
 .w-nav {
   position: relative;
-  background: #dddddd;
+  background: #70AD47;
   z-index: 1000;
 }
 .w-nav:before,
@@ -1627,14 +1627,14 @@ textarea.w-select {
   display: inline-block;
   vertical-align: top;
   text-decoration: none;
-  color: #222222;
+  color: #000;
   padding: 20px;
   text-align: left;
   margin-left: auto;
   margin-right: auto;
 }
 .w-nav-link.w--current {
-  color: #0082f3;
+  color: #ffffff;
 }
 .w-nav-menu {
   position: relative;
@@ -1646,7 +1646,7 @@ textarea.w-select {
   top: 100%;
   left: 0;
   right: 0;
-  background: #C8C8C8;
+  background: #70AD47;
   text-align: center;
   overflow: visible;
   min-width: 200px;
